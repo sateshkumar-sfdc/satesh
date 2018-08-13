@@ -8,6 +8,7 @@ public class AC1 {
         }
         system.debug('a is less than B');
        // system.debug('after the condition Satish1');
+        system.debug('a is less than B');
    }
 
 }
